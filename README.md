@@ -5,7 +5,7 @@ A library that draws my initial 'G' using turtlesim in ROS.
 
 ## Getting Started
 
-This project has been made on an Ubuntu 16.04 LTS version with ROS Ki- netic installed. I started this project by making a package called ”percep- tion in robotics”. All the nodes have been built using C++. Inside the src file of the package I built a my initials.cpp file that acts a node to draw the first alphabet of my name.<br/>
+This project has been made on an Ubuntu 16.04 LTS version with ROS Ki- netic installed. I started this project by making a package called ”perception in robotics”. All the nodes have been built using C++. Inside the src file of the package I built a my initials.cpp file that acts a node to draw the first alphabet of my name.<br/>
 Inside the .cpp file I initialize a simple publisher that publishes to the cmd vel topic. The turtlesim node subscribes to this topic to get the velocity of the turtle. I have made two functions:<br/>
 1. turn()
 2. forward()
@@ -30,7 +30,7 @@ git clone https://github.com/gautam-sharma1/Computer-Vision/tree/master/my_initi
 
 ## Built With
 
-* [ROS]
+* [ROS] [ros.org]
 
 
 ## Authors
