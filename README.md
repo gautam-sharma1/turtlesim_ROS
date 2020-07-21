@@ -24,8 +24,7 @@ The forward() function also takes a double as an input and equates the lin- ear 
 
 Clone the repo:
 ```
-git clone https://github.com/gautam-sharma1/Computer-Vision/tree/master/my_initials.git
-
+https://github.com/gautam-sharma1/turtlesim_ROS.git
 ```
 
 ## Built With
